@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 338.4
     height: 525.2
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -1026,10 +1026,10 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 16.000061}
-    m_SelectedIDs: 0e2b0300
-    m_LastClickedID: 207630
-    m_ExpandedIDs: 00000000b68400000e8500007ce9000082e9000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 38860000
+    m_LastClickedID: 34360
+    m_ExpandedIDs: 000000001486000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1057,7 +1057,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b6840000
+    m_ExpandedIDs: 0000000014860000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1084,7 +1084,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1189,7 +1189,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: e2f9fcff98fafcffb6fafcffc8fafcffc604fdff9a06fdffae08fdff6209fdffb00bfdffc20bfdffc015fdff9e17fdffa623fdff4c52fdff0653fdff7a55fdffe855fdffe65ffdff1e62fdff1850feff326dfefffe7ffeffbe97feff2ac6fffff4c9ffff06caffff2acaffff34ccffff4cccffff44d7ffff12e2ffff2ae2ffff12edffff0efbffffbc8e0000fa8f000074910000acfa0200
+      m_ExpandedIDs: f6dcffffacddffff1ee0ffff30e0ffff2eeaffff0cecffff0efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1248,8 +1248,8 @@ MonoBehaviour:
       collapsed: 0
       displayed: 1
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
+      snapOffsetDelta: {x: -99.20001, y: -26}
+      snapCorner: 3
       id: Tool Settings
       index: 0
       layout: 1
@@ -1258,9 +1258,9 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 149}
+      snapOffset: {x: -141, y: 149}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
+      snapCorner: 1
       id: unity-grid-and-snap-toolbar
       index: 1
       layout: 1
