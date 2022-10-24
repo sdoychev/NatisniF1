@@ -22,11 +22,11 @@ public class AudioUtility
         source.clip = clip;
         source.spatialBlend = spatialBlend;
         source.minDistance = rolloffDistanceMin;
-        //source.Play();
+        source.Play();
 
-        //source.outputAudioMixerGroup = GetAudioGroup(audioGroup);
+        source.outputAudioMixerGroup = GetAudioGroup(audioGroup);
 
-        //m_AudioManager.EnsureSFXDestruction(source);
+        m_AudioManager.EnsureSFXDestruction(source);
     }
 
     public static AudioMixerGroup GetAudioGroup(AudioGroups group)
